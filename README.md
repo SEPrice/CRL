@@ -1,2 +1,2 @@
 # CRL
-Exploring the wilderness of Cave RUn Lake
+Exploring the wilderness of Cave Run Lake
